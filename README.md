@@ -1,2 +1,2 @@
 # demoForTeaching
-Teaching purposes
+Teaching purposes for personal
